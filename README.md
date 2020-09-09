@@ -1,6 +1,6 @@
 # Time_Series_Analysis
 
-This analyis looks at testing various time-series tool to predict future movements in the value of the Japanse yen versus the U.S. dollar. 
+This analyis looks at testing various time-series tool to predict future movements in the value of the Japanese yen versus the U.S. dollar. 
 
 The time-series forecasting file contains historical Dollar-Yen exchange rate futures data. I perform the following tasks:
 
